@@ -19,6 +19,7 @@ with a tendency for reinventing the wheel.
 ![](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=csharp)
+![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 
 ### Software
 ![](https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=neovim)
@@ -27,6 +28,11 @@ with a tendency for reinventing the wheel.
 ![](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop)
 ![](https://img.shields.io/badge/Illustrator-black?style=for-the-badge&logo=adobeillustrator)
 ![](https://img.shields.io/badge/Unity3D-black?style=for-the-badge&logo=unity)
+![](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell)
+![](https://img.shields.io/badge/Windows_Terminal-black?style=for-the-badge&logo=windowsterminal)
+
+
 
 
 
