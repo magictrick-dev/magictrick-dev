@@ -32,7 +32,10 @@ with a tendency for reinventing the wheel.
 ![](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell)
 ![](https://img.shields.io/badge/Windows_Terminal-black?style=for-the-badge&logo=windowsterminal)
 
+<br />
+<br />
 
+![](https://komarev.com/ghpvc/?username=magictrick-dev)
 
 
 
