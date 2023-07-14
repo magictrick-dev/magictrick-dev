@@ -5,7 +5,7 @@ with a tendency for reinventing the wheel.
 </i></p>
 <br/>
 
-<h2 align="center">Skills & Knowledge Domains</h2>
+<h2 align="center">Knowledge Domains</h2>
 
 <h3>Languages & Frameworks</h3>
 
@@ -23,6 +23,9 @@ with a tendency for reinventing the wheel.
 ![](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=csharp)
 ![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/gnubash-black?style=for-the-badge&logo=gnubash)
+![](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)
 
 <h3>Software & Tools</h3>
 
@@ -33,15 +36,19 @@ with a tendency for reinventing the wheel.
 ![](https://img.shields.io/badge/Illustrator-black?style=for-the-badge&logo=adobeillustrator)
 ![](https://img.shields.io/badge/Unity3D-black?style=for-the-badge&logo=unity)
 ![](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 ![](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell)
 ![](https://img.shields.io/badge/Windows_Terminal-black?style=for-the-badge&logo=windowsterminal)
+![](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
+![](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/microsoftsqlserver-black?style=for-the-badge&logo=microsoftsqlserver)
 
 <br />
 <h2 align="center">Portfolio & Active Projects</h2>
 
 
 
-<details>
+<details open>
 <summary>
     <h3><a href="https://github.com/magictrick-dev/NinetailsX">Ninetails 2D/3D Engine</a></h3>
     <p>
@@ -64,7 +71,7 @@ with a tendency for reinventing the wheel.
 
 </details>
 
-<details>
+<details open>
 <summary>
     <h3><a href="https://github.com/magictrick-dev/uratool">USB Replication Automation Tool</a></h3>
     <p>
