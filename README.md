@@ -1,5 +1,6 @@
-<h3 align="center">Magic Trick Dev.</h3>
-<p align="center"><i><strong>Chris DeJong</strong><br/>
+<h1 align="center">Magic Trick Dev.</h1>
+<br />
+<p align="center"><i><strong>Christopher N. DeJong</strong><br/>
 An undergraduate computer science student<br/>
 with a tendency for reinventing the wheel.
 </i></p>
