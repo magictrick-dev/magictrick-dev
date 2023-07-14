@@ -95,7 +95,7 @@ with a tendency for reinventing the wheel.
 
 <details open>
 <summary>
-    <h3><a href="https://magictricdev.vercel.app">Portfolio Website & Superluminal Graphics Library</a></h3>
+    <h3><a href="https://magictrickdev.vercel.app">Portfolio Website & Superluminal Graphics Library</a></h3>
     <p>
         This is my personal portfolio website. <br/><br/>
         Essentially, my portfolio website is a portfolio project itself, built using React, NextJS,
