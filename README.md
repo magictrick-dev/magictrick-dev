@@ -106,7 +106,7 @@ with a tendency for reinventing the wheel.
 <p>
     <strong>Status: </strong>
     Working on making a front-page background using Superluminal for the website before continuing
-    development on the front-end website.
+    development on the front-end content.
 </p>
     
 ![](https://img.shields.io/badge/CPP-black?style=for-the-badge&logo=cplusplus)
