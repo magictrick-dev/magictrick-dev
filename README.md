@@ -49,7 +49,7 @@ with a tendency for reinventing the wheel.
 
 
 
-<details open>
+<details>
 <summary>
     <h3><a href="https://github.com/magictrick-dev/NinetailsX">Ninetails 2D/3D Engine</a></h3>
     <p>
@@ -72,7 +72,7 @@ with a tendency for reinventing the wheel.
 
 </details>
 
-<details open>
+<details>
 <summary>
     <h3><a href="https://github.com/magictrick-dev/uratool">USB Replication Automation Tool</a></h3>
     <p>
@@ -93,7 +93,7 @@ with a tendency for reinventing the wheel.
 
 </details>
 
-<details open>
+<details>
 <summary>
     <h3><a href="https://magictrickdev.vercel.app">Portfolio Website & Superluminal Graphics Library</a></h3>
     <p>
